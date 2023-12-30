@@ -1,2 +1,45 @@
+digraph {
+ // Parent nodes
+ lines[label="LINES"]; 
+ ahs[label="ARROW HEADSx"]; 
 
+ // Children nodes
+ dot[label="both dot"]; 
+ vee[label="back vee"]; 
+ diamond[label="diamond and box"]; 
+
+ // Line styles
+ lines -- solid[label="solid pink", color="pink"]; 
+ lines -- penwidth[label="penwidth=5", penwidth=5]; 
+ lines -- dashed[label="dashed green", style="dashed", color="green"]; 
+ lines -- dotted[label="dotted purple", style="dotted", color="purple"]; 
+
+ // Arrowhead styles
+ ahs -> box[label="boxXXX", arrowhead=box]; 
+ ahs -> crow[label="crow", arrowhead=crow]; 
+ ahs -> curve[label="curve", arrowhead=curve]; 
+ ahs -> icurve[label="icurve", arrowhead=icurve]; 
+ ahs -> normal[label="normal", arrowhead=normal]; 
+ ahs -> inv[label="inv", arrowhead=inv]; 
+ ahs -> diamond[label="diamond and box", dir=both, arrowhead=diamond, arrowtail=box]; 
+ ahs -> dot[label="both dot", dir=both, arrowhead=dot, arrowtail=dot]; 
+ ahs -> tee[label="tee", arrowhead=tee]; 
+ ahs -> vee[label="back vee", dir=back, arrowtail=vee]; 
+
+
+
+MTSFB[label="MTSFB"];
+MCMC [label="MCMC"];
+KKM[label="Ministry of Communications & Multimedia"];
+MITI[label="Ministry of International Trade and Industry (MITI)"];
+
+ITU[label="International Telecommunication Union (ITU)"];
+ISO[label="International Standardization Organization (ISO)"];
+IEC[label="International Electrotechnical Commission (IEC)"];
+
+ MTSFB -> MCMC[label="Recommends Technical Codes", arrowhead=box]; 
+
+
+
+}
 
