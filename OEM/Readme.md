@@ -13,8 +13,15 @@ This Readme file is your starting point for the Open Ecosystem Mapping.
 - Structures
   - Organization
   - Department
+  - Groups
+      - Working Group
+      - Study Group
 - Product
     - Document
+       - RFC
+       - Technical Code
+       - ISO
+       - 
     - Software
 
 
