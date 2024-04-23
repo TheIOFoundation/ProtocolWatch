@@ -1,0 +1,1 @@
+This folder contains all the data sources for activities related to the W3C Habitat.
