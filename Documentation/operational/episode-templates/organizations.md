@@ -56,6 +56,7 @@ Do they have RSS?
 * [ ] What is it happening that we should be paying attention to?
 * [ ] What does the audience think we should keep an eye on?
 * [ ] Update corresponding SDO profile page.
+* [ ] Where to look to be updated?
 {% endtab %}
 
 {% tab title="Sources" %}
