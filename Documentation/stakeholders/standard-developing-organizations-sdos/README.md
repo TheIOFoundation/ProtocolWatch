@@ -1,4 +1,4 @@
-# Policy Developing Organizations (PDOs)
+# Standard Developing Organizations (SDOs)
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

@@ -23,6 +23,11 @@
 
 ## STAKEHOLDERS
 
-* [Standard Developing Organizations (SDOs)](stakeholders/standard-developing-organizations-sdos.md)
+* [Standard Developing Organizations (SDOs)](stakeholders/standard-developing-organizations-sdos/README.md)
+  * [Internet Engineering Task Force](stakeholders/standard-developing-organizations-sdos/internet-engineering-task-force/README.md)
+    * [Request for Comments (RFC)](stakeholders/standard-developing-organizations-sdos/internet-engineering-task-force/request-for-comments-rfc.md)
+  * [ICANN](stakeholders/standard-developing-organizations-sdos/icann.md)
+  * [International Telecommunications Union (ITU)](stakeholders/standard-developing-organizations-sdos/international-telecommunications-union-itu/README.md)
+    * [Document categories](stakeholders/standard-developing-organizations-sdos/international-telecommunications-union-itu/document-categories.md)
 * [Policy Developing Organizations (PDOs)](stakeholders/policy-developing-organizations-pdos.md)
 * [Others](stakeholders/others.md)
