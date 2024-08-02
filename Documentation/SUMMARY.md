@@ -42,7 +42,10 @@
 
 * [Standard Developing Organizations (SDOs)](stakeholders/standard-developing-organizations-sdos/README.md)
   * [IETF Habitat](stakeholders/standard-developing-organizations-sdos/ietf-habitat/README.md)
-    * [Internet Engineering Task Force](stakeholders/standard-developing-organizations-sdos/ietf-habitat/internet-engineering-task-force.md)
+    * [IETF: Internet Engineering Task Force](stakeholders/standard-developing-organizations-sdos/ietf-habitat/ietf-internet-engineering-task-force.md)
+    * [IRTF: Internet Research Task Force](stakeholders/standard-developing-organizations-sdos/ietf-habitat/irtf-internet-research-task-force.md)
+    * [IAB: Internet Architecture Board](stakeholders/standard-developing-organizations-sdos/ietf-habitat/iab-internet-architecture-board.md)
+    * [NomCom](stakeholders/standard-developing-organizations-sdos/ietf-habitat/nomcom.md)
     * [Request for Comments (RFC)](stakeholders/standard-developing-organizations-sdos/ietf-habitat/request-for-comments-rfc.md)
   * [ICANN Habitat](stakeholders/standard-developing-organizations-sdos/icann-habitat.md)
   * [RIRs Habitat](stakeholders/standard-developing-organizations-sdos/rirs-habitat/README.md)
