@@ -1,4 +1,4 @@
-# Tools
+# Discovering Internet Governance
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
