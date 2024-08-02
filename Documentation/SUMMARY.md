@@ -10,9 +10,12 @@
 
 ## 🟢 ONGOING
 
-* [ICANN](ongoing/icann.md)
-* [IETF](ongoing/ietf.md)
-* [ITU](ongoing/itu.md)
+* [ICANN](ongoing/icann/README.md)
+  * [Public Comments](ongoing/icann/public-comments.md)
+* [IETF](ongoing/ietf/README.md)
+  * [Public Comments](ongoing/ietf/public-comments.md)
+* [ITU](ongoing/itu/README.md)
+  * [Public Comments](ongoing/itu/public-comments.md)
 
 ## RESEARCH
 
