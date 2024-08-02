@@ -54,9 +54,16 @@ Do they have RSS?
 💥
 
 * [ ] What is it happening that we should be paying attention to?
+* [ ] What is the organization working on a the moment?
 * [ ] What does the audience think we should keep an eye on?
 * [ ] Update corresponding SDO profile page.
 * [ ] Where to look to be updated?
+* [ ] Is Organization on OEM? (Open Ecosystem Mapping)
+  * [ ] Which other orgs does it talk to?
+    * [ ] Does it have established mechanisms or representatives?
+* [ ] Is Organization on OSM? (Open Stack Mapping)
+  * [ ] Which other orgs does it overlap with?
+*
 {% endtab %}
 
 {% tab title="Sources" %}
@@ -102,12 +109,14 @@ Do they have RSS?
 
 * [ ] What's the stack they follow and where do they place themselves and the work they do?
 * [ ] What kind of resources they produce?
+* [ ] What kind of resources they DO NOT produce?
 * [ ] What kind of resources they command?
 * [ ] What is the lifecycle of each resource?
 * [ ] Where in the stack do those resources reside?
 * [ ] Which other layers of the stack do those resources affect?
 * [ ] Do they have a common/centralized repository of resources?
 * [ ] What's the filenaming/encoding of resources?
+*
 *
 {% endtab %}
 
@@ -130,9 +139,13 @@ Do they have RSS?
 {% tab title="Summary" %}
 💥
 
-* [ ] What is their mandate?
+* [ ] What is their mandate? (Scope >> see #Tags)
+  * [ ] Encode Mandate if parts missing
+  * [ ] Map Mandate in OSM
+  * [ ] Are there overlaps in the mandate?
 * [ ] What are the documents governing the SDO?
 * [ ] How can those documents be modified?
+*
 *
 {% endtab %}
 
@@ -157,6 +170,7 @@ Do they have RSS?
 {% tab title="Summary" %}
 💥
 
+* [ ] What is the legal status of the organization? (Corporate, Nonprofit...)
 * [ ] How is this SDO composed?
 * [ ] What is the composition of each subdivision?
 * [ ] What are the documents regulating each subdivision?
@@ -181,6 +195,8 @@ Do they have RSS?
 
 * [ ] Which governance model do they follow?
 * [ ] Is it a membership organization?
+* [ ] How to become part of the structure? (Chairmain, CEO, etc.)
+* [ ] How to work for this organization?
 {% endtab %}
 
 {% tab title="Types of Participants / Memberships" %}
@@ -301,6 +317,26 @@ How to participate in Events / Meetings.
 {% endtabs %}
 
 
+
+
+
+## Analysis
+
+{% tabs %}
+{% tab title="First Tab" %}
+* [ ] Who issues the most outputs?
+* [ ] Is there a concentration of control over a resource?
+*
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
+
+
+*
 
 
 
