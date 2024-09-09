@@ -91,6 +91,7 @@
 ## OPERATIONAL
 
 * [Episode Templates](operational/episode-templates/README.md)
+  * [Episodes](operational/episode-templates/episodes.md)
   * [Organizations](operational/episode-templates/organizations.md)
   * [Meetings](operational/episode-templates/meetings.md)
   * [Substructure](operational/episode-templates/substructure.md)
