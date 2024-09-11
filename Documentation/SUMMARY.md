@@ -8,6 +8,11 @@
 * [Frequently Asked Questions](about/frequently-asked-questions.md)
 * [Terminology](about/terminology.md)
 
+## TEMP
+
+* [Template - Organizations](temp/template-organizations.md)
+* [Template - Events](temp/template-events.md)
+
 ## 🟢 ONGOING
 
 * [Technology](ongoing/technology.md)

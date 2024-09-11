@@ -31,3 +31,20 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 {% endhint %}
 
 ## About
+
+
+
+
+
+
+
+
+
+X: [https://x.com/i/broadcasts/1ypKdpbvDBnKW](https://x.com/i/broadcasts/1ypKdpbvDBnKW)
+
+Youtube: [https://www.youtube.com/watch?v=95PkG32569w](https://www.youtube.com/watch?v=95PkG32569w)
+
+Rumble:&#x20;
+
+
+
