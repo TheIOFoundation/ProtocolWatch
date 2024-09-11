@@ -1,0 +1,2 @@
+# GDC: Global Digital Compact
+
