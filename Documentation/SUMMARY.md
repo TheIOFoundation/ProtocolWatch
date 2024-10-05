@@ -3,26 +3,26 @@
 ## ABOUT
 
 * [Introduction](README.md)
-* [Funding](about/funding.md)
+* [Implementation](about/implementation.md)
+* [Theory of Change](about/theory-of-change.md)
 * [Media Kit](about/media-kit.md)
-* [Frequently Asked Questions](about/frequently-asked-questions.md)
 * [Terminology](about/terminology.md)
+* [Frequently Asked Questions](about/frequently-asked-questions.md)
 
 ## TEMP
 
-* [Template - Organizations](temp/template-organizations.md)
-* [Template - Events](temp/template-events.md)
+* [DEL Template - Organizations](temp/del-template-organizations.md)
 
-## 🟢 ONGOING
+## 📡 The radar
 
-* [Technology](ongoing/technology.md)
-* [ICANN](ongoing/icann/README.md)
-  * [Public Comments](ongoing/icann/public-comments.md)
-* [IETF](ongoing/ietf/README.md)
-  * [Public Comments](ongoing/ietf/public-comments.md)
-* [ITU](ongoing/itu/README.md)
-  * [Public Comments](ongoing/itu/public-comments.md)
-* [Internet Governance](ongoing/internet-governance.md)
+* [Technology](the-radar/technology.md)
+* [ICANN](the-radar/icann/README.md)
+  * [Public Comments](the-radar/icann/public-comments.md)
+* [IETF](the-radar/ietf/README.md)
+  * [Public Comments](the-radar/ietf/public-comments.md)
+* [ITU](the-radar/itu/README.md)
+  * [Public Comments](the-radar/itu/public-comments.md)
+* [Internet Governance](the-radar/internet-governance.md)
 
 ## RESEARCH
 
@@ -92,11 +92,3 @@
   * [IEC](stakeholders/backlog/iec.md)
   * [IEEE](stakeholders/backlog/ieee.md)
   * [OMG: Object Management Group](stakeholders/backlog/omg-object-management-group.md)
-
-## OPERATIONAL
-
-* [Episode Templates](operational/episode-templates/README.md)
-  * [Episodes](operational/episode-templates/episodes.md)
-  * [Organizations](operational/episode-templates/organizations.md)
-  * [Meetings](operational/episode-templates/meetings.md)
-  * [Substructure](operational/episode-templates/substructure.md)
