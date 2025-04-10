@@ -10,6 +10,10 @@
 
 window.addEventListener("message",(function(e){let t=e.data,n="instacharts-height";if(t&\&t\[n]){let s=document.querySelectorAll("iframe");for(let o=0;o\<s.length;o++){let a=s\[o];a.contentWindow==e.source&\&a.dataset.responsive&&(a.style.height=t\[n]+"px",a.contentWindow.postMessage({"instacharts-no-scroll":1},"\*"))\}}}));
 
+{% embed url="https://instacharts.io/app/embeds/30a494a4-b24f-4ccf-9102-23e29fda224b" %}
+
+![Chart](https://instacharts.io/share/img/49484957-ce1b-4aa1-8098-d445cb741fc3.png)
+
 
 
 
