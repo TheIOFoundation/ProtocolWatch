@@ -16,7 +16,7 @@ window.addEventListener("message",(function(e){let t=e.data,n="instacharts-heigh
 
 
 
-
+{% embed url="https://chartbrick.com/embed/cm9bd5cn60r6alr0frd1p1rty" %}
 
 
 
