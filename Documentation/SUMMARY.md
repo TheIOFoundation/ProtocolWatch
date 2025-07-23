@@ -3,17 +3,18 @@
 ## ABOUT
 
 * [Introduction](README.md)
-* [Implementation](about/implementation.md)
-* [Theory of Change](about/theory-of-change.md)
 * [Media Kit](about/media-kit.md)
-* [Terminology](about/terminology.md)
-* [Frequently Asked Questions](about/frequently-asked-questions.md)
+* [Hidden](about/hidden/README.md)
+  * [Frequently Asked Questions](about/hidden/frequently-asked-questions.md)
+  * [Terminology](about/hidden/terminology.md)
+  * [Theory of Change](about/hidden/theory-of-change.md)
+  * [Implementation](about/hidden/implementation.md)
 
 ## TEMP
 
 * [DEL Template - Organizations](temp/del-template-organizations.md)
 
-## 📡 The radar
+## The radar
 
 * [Technology](the-radar/technology.md)
 * [ICANN](the-radar/icann/README.md)

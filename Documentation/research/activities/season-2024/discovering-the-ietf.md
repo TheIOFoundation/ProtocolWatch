@@ -1,20 +1,6 @@
 ---
 cover: ../../../.gitbook/assets/TIOF Youtube-IETF-thumbnail.jpg
 coverY: -36.68266666666666
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Discovering the IETF

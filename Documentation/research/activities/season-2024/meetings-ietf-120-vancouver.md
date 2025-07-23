@@ -1,20 +1,6 @@
 ---
 cover: ../../../.gitbook/assets/TIOF Youtube-MEETINGS-IETF 120-Thumbnail.jpg
 coverY: -37
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Meetings - IETF 120 (Vancouver)
