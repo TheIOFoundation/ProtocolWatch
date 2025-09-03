@@ -3,12 +3,20 @@
 ## ABOUT
 
 * [Introduction](README.md)
+* [Project Information](about/project-information.md)
 * [Media Kit](about/media-kit.md)
+* [Get Involved](about/get-involved.md)
+* [Support Us](about/support-us.md)
+* [Partners](about/partners.md)
 * [Hidden](about/hidden/README.md)
   * [Frequently Asked Questions](about/hidden/frequently-asked-questions.md)
   * [Terminology](about/hidden/terminology.md)
   * [Theory of Change](about/hidden/theory-of-change.md)
   * [Implementation](about/hidden/implementation.md)
+
+***
+
+* [TechUp Cast](techup-cast.md)
 
 ## TEMP
 
