@@ -1,20 +1,35 @@
 ---
-icon: star
+icon: person-digging
+cover: .gitbook/assets/Work in Progress.png
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
-# Introduction
+# Section Under Maintenance
 
-## About
+{% hint style="danger" %}
+## DISCLAIMER
 
-
-
-
-
-## Why should this matter to you?
-
-Technical standards shape the infrastructure that run the global Internet.
-
-
-
-
+Please note that this site is currently undergoing maintenance to update its content.\
+\
+We apologize for any inconvenience as we ensure that we finalized it in the shortest of times.\
+\
+THE IO FOUNDATION
+{% endhint %}
 
