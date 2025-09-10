@@ -6,7 +6,7 @@
 
 ## ABOUT
 
-* [Introduction](<README (1).md>)
+* [Spotlight](about/spotlight.md)
 * [Project Information](about/project-information.md)
 * [Terminology](about/terminology.md)
 * [Get Involved](about/get-involved.md)

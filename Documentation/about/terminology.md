@@ -1,2 +1,6 @@
-# About
+---
+icon: spell-check
+---
+
+# Terminology
 

@@ -1,8 +1,8 @@
 ---
-icon: star
+icon: bullseye
 ---
 
-# Introduction
+# Spotlight
 
 ## About
 
