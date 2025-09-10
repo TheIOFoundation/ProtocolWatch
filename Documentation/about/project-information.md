@@ -1,6 +1,6 @@
 ---
 hidden: true
-icon: square-info
+icon: bullseye-arrow
 ---
 
 # Project Information
